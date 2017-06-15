@@ -1,0 +1,4 @@
+Video is already added/ add youtube url it would also work.
+Add term and condition page link in index
+if want to do database entry use video.php(add your data base/ commands)
+Else video.html will show demonstration.
